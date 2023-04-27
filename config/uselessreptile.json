@@ -1,0 +1,10 @@
+{
+  "wyvernSpawnWeight": 2,
+  "dragonCallbackDistanceMultiplier": 1.0,
+  "desiredCameraDistanceOffset": 2.0,
+  "cameraVerticalOffset": 0.0,
+  "cameraHorizontalOffset": -1.5,
+  "enableCameraOffset": true,
+  "enableCrosshair": true,
+  "autoThirdPerson": true
+}

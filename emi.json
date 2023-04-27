@@ -1,0 +1,129 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "item": "minecraft:coal",
+        "amount": 5,
+        "type": "emi:item"
+      }
+    }
+  ],
+  "lookup_history": [
+    {
+      "item": "minecraft:rabbit_foot",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:raw_copper",
+      "amount": 9,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:raw_copper_block",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:smooth_stone",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:stone",
+      "amount": 5,
+      "type": "emi:item"
+    },
+    {
+      "tag": "minecraft:stone_tool_materials",
+      "amount": 1,
+      "type": "emi:item_tag"
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "amount": 28,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:rabbit_hide",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:rotten_flesh",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "backpacked:backpack",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:melon_slice",
+      "amount": 64,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:stone_brick_stairs",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:birch_stairs",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "the_bumblezone:royal_jelly_bottle",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:birch_pressure_plate",
+      "amount": 1,
+      "type": "emi:item"
+    }
+  ],
+  "craft_history": [
+    "minecraft:wooden_sword",
+    "minecraft:crafting_table",
+    "minecraft:birch_planks",
+    "minecraft:gold_ingot_from_nuggets",
+    "minecraft:bread",
+    "minecraft:wheat",
+    "minecraft:torch",
+    "minecraft:iron_shovel",
+    "minecraft:iron_sword",
+    "minecraft:blast_furnace",
+    "minecraft:furnace",
+    "minecraft:iron_axe",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:stick",
+    "minecraft:spruce_planks",
+    "minecraft:diamond_pickaxe",
+    "minecraft:white_wool_from_string",
+    "minecraft:stone_axe",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:bow",
+    "minecraft:iron_ingot_from_iron_block",
+    "minecraft:iron_pickaxe",
+    "minecraft:oak_planks"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "disabled": [
+      "minecraft:campfire",
+      "minecraft:soul_torch",
+      "minecraft:fire_charge",
+      "minecraft:torch",
+      "minecraft:coal_block"
+    ]
+  }
+}
